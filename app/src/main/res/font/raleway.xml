@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font
+        android:font="@font/Raleway_Thin"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_Thin"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_Black"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_Black"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_Bold"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_Bold"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_ExtraBold"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_ExtraBold"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_ExtraLight"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_ExtraLight"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_Light"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_Light"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_Medium"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_Medium"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_Regular"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_Regular"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font
+        android:font="@font/Raleway_SemiBold"
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        app:font="@font/Raleway_SemiBold"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+</font-family>
